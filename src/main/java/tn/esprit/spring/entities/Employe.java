@@ -26,7 +26,7 @@ public class Employe implements Serializable {
 	
 	private String prenom;
 	
-	private String nom;
+	private String noms;
 		 
 	private String email;
 
